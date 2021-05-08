@@ -1,0 +1,6 @@
+= Tips for Spring Batch with Spring Boot
+:page-layout: default
+:page-nav_order: 1
+:source-highlighter: rouge
+
+A project with some tips about Spring Batch with Spring Boot 
